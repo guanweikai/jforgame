@@ -11,6 +11,9 @@ import com.kingston.jforgame.common.utils.IpAddrUtil;
 import com.kingston.jforgame.server.utils.XmlUtils;
 
 @Root(name = "server")
+/**
+ * 服务配置
+ */
 public class ServerConfig {
 
 	private Logger logger = LoggerFactory.getLogger(ServerConfig.class.getSimpleName());
