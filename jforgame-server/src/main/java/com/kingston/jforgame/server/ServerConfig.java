@@ -12,7 +12,7 @@ import com.kingston.jforgame.server.utils.XmlUtils;
 
 @Root(name = "server")
 /**
- * 服务配置
+ * 服务配置1
  */
 public class ServerConfig {
 
